@@ -1,7 +1,7 @@
 ## Pertama saya analisis hal yang dibutuhkan. Ditemukan seperti dibawah ini:
 ---------------------------------------------------------------
-```Pemasukan, Pengeluaran, dan laporan.
-
+```
+Pemasukan, Pengeluaran, dan laporan.
 Fungsi utama.
 1. Menghitung Saldo.
 2. CRUDS Pemasukan.
@@ -15,8 +15,11 @@ Tanggal (Hari ini)
 Jenis Transaksi (opsi)
 Nominal
 Keterangan
-Status```
+Status 
+```
+
 ---------------------------------------------------------------
+
 ## Kedua saya membuat database dan model
 ## Ketiga saya membuat Controller
 ## Keempat saya membuat ui lalu stuck karena lupa vuetify harus pakai vue 2.*
